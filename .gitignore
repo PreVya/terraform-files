@@ -1,6 +1,6 @@
 infra/*.tfvars
 
-
+*.tfvars
 *.tfstate
 *.tfstate.backup
 .terraform/
@@ -14,3 +14,4 @@ express-frontend/__pycache__/
 
 *.swp
 *.DS_Store
+terraform.tfvars
